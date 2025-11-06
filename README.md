@@ -1,5 +1,3 @@
-# 100-Cimarrones-Dijeron
-Juego 
 <!doctype html>
 <html lang="es">
 <head>
